@@ -35614,5 +35614,12 @@
     "status": "operational",
     "http_status": 200,
     "response_time_ms": 676.59
+  },
+  {
+    "timestamp": "2026-09-28T11:19:48Z",
+    "service": "Esteno Website",
+    "status": "operational",
+    "http_status": 200,
+    "response_time_ms": 809.21
   }
 ]
