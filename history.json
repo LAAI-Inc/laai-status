@@ -38008,5 +38008,12 @@
     "status": "operational",
     "http_status": 200,
     "response_time_ms": 442.47
+  },
+  {
+    "timestamp": "2026-10-05T10:57:11Z",
+    "service": "Esteno Website",
+    "status": "operational",
+    "http_status": 200,
+    "response_time_ms": 549.24
   }
 ]
