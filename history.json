@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-08-24T16:46:50Z",
-    "service": "Esteno Website",
-    "status": "operational",
-    "http_status": 200,
-    "response_time_ms": 677.97
-  },
-  {
     "timestamp": "2026-08-24T17:05:11Z",
     "service": "Esteno Website",
     "status": "operational",
@@ -39506,5 +39499,12 @@
     "status": "operational",
     "http_status": 200,
     "response_time_ms": 757.6
+  },
+  {
+    "timestamp": "2026-11-22T16:53:38Z",
+    "service": "Esteno Website",
+    "status": "operational",
+    "http_status": 200,
+    "response_time_ms": 450.88
   }
 ]
