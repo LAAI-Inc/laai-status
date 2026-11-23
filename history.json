@@ -39800,5 +39800,12 @@
     "status": "operational",
     "http_status": 200,
     "response_time_ms": 613.49
+  },
+  {
+    "timestamp": "2026-11-23T14:35:56Z",
+    "service": "Esteno Website",
+    "status": "operational",
+    "http_status": 200,
+    "response_time_ms": 546.02
   }
 ]
