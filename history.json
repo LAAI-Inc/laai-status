@@ -40220,5 +40220,12 @@
     "status": "operational",
     "http_status": 200,
     "response_time_ms": 535.2
+  },
+  {
+    "timestamp": "2026-11-24T15:19:24Z",
+    "service": "Esteno Website",
+    "status": "operational",
+    "http_status": 200,
+    "response_time_ms": 607.2
   }
 ]
