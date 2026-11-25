@@ -40773,5 +40773,12 @@
     "status": "operational",
     "http_status": 200,
     "response_time_ms": 637.96
+  },
+  {
+    "timestamp": "2026-11-25T09:26:09Z",
+    "service": "Esteno Website",
+    "status": "operational",
+    "http_status": 200,
+    "response_time_ms": 530.76
   }
 ]
